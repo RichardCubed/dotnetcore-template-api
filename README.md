@@ -9,7 +9,7 @@ The project was built using VisualStudio (Xamarin) for OSX, but the same project
 Middleware for handling common exceptions<br/>
 DynamoDB models and CRUD operations<br/>
 A Mediator pattern for clean seperation of responsibilities<br/>
-AWS Ray for distributed tracing<br/>
+AWS XRay for distributed tracing<br/>
 A DockerFile for building and deploying<br/>
 Unit testing framework<br/>
 Healthcheck endpoint<br/>
